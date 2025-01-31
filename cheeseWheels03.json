@@ -1,0 +1,16 @@
+{
+    "cheeseTypes": [
+        {"type": "Swiss", "costPerPound": 2.00},
+        {"type": "Sharp Cheddar", "costPerPound": 3.45},
+        {"type": "Pepperjack", "costPerPound": 5.25},
+        {"type": "Moldy", "costPerPound": 0.50}
+       
+    ],
+    "cheeseFolks": [
+        {"name": "Issac", "wheelSizes": [0, 8, 1, 14]},
+        {"name": "Ryan", "wheelSizes": [6, 0, 8, 24]},
+        {"name": "Collin", "wheelSizes": [2, 10, 0, 5]},
+        {"name": "Lukah", "wheelSizes": [9, 3, 16, 0]},
+        {"name": "Walt", "wheelSizes": [1, 1, 0, 60]}
+    ]
+}

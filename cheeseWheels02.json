@@ -1,0 +1,10 @@
+{
+    "cheeseTypes": [
+        {"type": "Swiss", "costPerPound": 2.00},
+        {"type": "Sharp Cheddar", "costPerPound": 3.45},
+        {"type": "Pepperjack", "costPerPound": 5.25},
+        {"type": "Moldy", "costPerPound": 0.50}
+       
+    ],
+    "wheelSizes": [5, 10, 15, 20, 25, 30]
+}
